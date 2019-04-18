@@ -1,29 +1,16 @@
-# This is a large heading
+## Yufei GAN's world
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+Hi, my name is yufei gan. I come from China and now live in Ann 
+Arbor, **MI**
 
-- This is
-- an unordered
-- list
+### Hobbies
 
-1. This is
-2. an ordered
-3. list
+Three of my hobbies are:
 
-Here is `some code` in the middle of a sentence.
+- *Music* (guitar, piano)
+- *Sports* (basketball, skateboard)
+- *Code*
 
-```
-This is
-a block
-of code
-```
 
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an 
-image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
